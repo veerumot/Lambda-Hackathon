@@ -1,0 +1,10 @@
+{
+  "GET /jobs-data/ => 502": {
+    "response": "502 on /jobs-data means the service is down.",
+    "command": "sudo systemctl start dash"
+  },
+  "POST /submit => 500": {
+    "response": "500 on /submit due to know issue."
+  }
+}
+

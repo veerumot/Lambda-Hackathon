@@ -17,7 +17,7 @@ Automate the detection and resolution of 5xx errors in nginx logs to ensure appl
 ## Solution Storage
 - Solutions for each error are maintained in the S3 bucket as scripts or command files.
 ## Intended Audience
-DevOps engineers are responsible for monitoring, incident response, and system reliability.
+DevOps engineers and SRE engineers are responsible for monitoring, incident response, and system reliability.
 
 ## Architecture Diagram
-![Alt text](../images/Arch.png)
+![Alt text](images/Arch.png)

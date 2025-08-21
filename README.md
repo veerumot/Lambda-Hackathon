@@ -23,4 +23,4 @@ DevOps engineers and SRE engineers are responsible for monitoring, incident resp
 ![Alt text](images/Arch.png)
 
 ## Demo-Video
-[video] (https://youtu.be/QuhbPH2j3CA?si=ewStJdTvcfBVRr_6)
+[video](https://youtu.be/QuhbPH2j3CA?si=ewStJdTvcfBVRr_6/)
